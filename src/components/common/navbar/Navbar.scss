@@ -1,6 +1,9 @@
+@import "../../../styles/globals.css";
+
 .navbar{
-  transition: var(--transition);
-  background-color: var(--navbar-color);
+  transition: var(--transition) !important;
+  background-color: var(--navbar-color) !important;
+  font-family: Roboto, serif;
 
   .navbar-container{
     display: flex;

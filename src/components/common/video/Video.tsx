@@ -1,9 +1,9 @@
 import React, { useEffect, useRef } from 'react';
 import Hls from 'hls.js';
 
-import './Video.module.scss';
+import './Video.scss';
 
-interface VideoProps {
+export interface VideoProps {
   source: string;
   hasControls: boolean;
 }
