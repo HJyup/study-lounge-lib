@@ -1,6 +1,6 @@
 {
   "name": "@HJyup/study-lounge-lib",
-  "version": "0.0.5",
+  "version": "0.1.1",
   "description": "Component Library for Study Lounge Project",
   "scripts": {
     "build": "rollup -c",
