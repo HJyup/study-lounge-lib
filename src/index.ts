@@ -1,1 +1,1 @@
-export { Switch } from './components';
+export { Switch, Navbar, Video } from './components';
